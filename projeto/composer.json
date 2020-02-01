@@ -1,7 +1,10 @@
 {
     "autoload": {
         "psr-4": {
-            "" : "src/"
+            "Code\\" : "src/"
         }
+    },
+    "require": {
+        "phpsc/pagseguro": "^1.0"
     }
 }
